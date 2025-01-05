@@ -11,3 +11,5 @@ TRANSPORT_ROUTES = {
         "verify_ssl": false
     }
 }
+
+APP_PORT = 8080
